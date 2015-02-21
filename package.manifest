@@ -1,0 +1,10 @@
+﻿{
+    "javascript": [
+        "~/App_Plugins/Analyze/Chart.min.js",
+        "~/App_Plugins/Analyze/Analyze.controller.js",
+        "~/App_Plugins/Analyze/Analyze.service.js"
+    ],
+    "css": [
+        "~/App_Plugins/Analyze/analyze.css"
+    ]
+}

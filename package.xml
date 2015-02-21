@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files>
+    <file>
+      <guid>Analyze.controller.js</guid>
+      <orgPath>/App_Plugins/Analyze</orgPath>
+      <orgName>Analyze.controller.js</orgName>
+    </file>
+    <file>
+      <guid>analyze.css</guid>
+      <orgPath>/App_Plugins/Analyze</orgPath>
+      <orgName>analyze.css</orgName>
+    </file>
+    <file>
+      <guid>analyze.css.map</guid>
+      <orgPath>/App_Plugins/Analyze</orgPath>
+      <orgName>analyze.css.map</orgName>
+    </file>
+    <file>
+      <guid>Analyze.html</guid>
+      <orgPath>/App_Plugins/Analyze</orgPath>
+      <orgName>Analyze.html</orgName>
+    </file>
+    <file>
+      <guid>analyze.less</guid>
+      <orgPath>/App_Plugins/Analyze</orgPath>
+      <orgName>analyze.less</orgName>
+    </file>
+    <file>
+      <guid>analyze.min.css</guid>
+      <orgPath>/App_Plugins/Analyze</orgPath>
+      <orgName>analyze.min.css</orgName>
+    </file>
+    <file>
+      <guid>Analyze.service.js</guid>
+      <orgPath>/App_Plugins/Analyze</orgPath>
+      <orgName>Analyze.service.js</orgName>
+    </file>
+    <file>
+      <guid>Chart.min.js</guid>
+      <orgPath>/App_Plugins/Analyze</orgPath>
+      <orgName>Chart.min.js</orgName>
+    </file>
+    <file>
+      <guid>package.manifest</guid>
+      <orgPath>/App_Plugins/Analyze</orgPath>
+      <orgName>package.manifest</orgName>
+    </file>
+    <file>
+      <guid>AnalyzeController.cs</guid>
+      <orgPath>/Controllers/API</orgPath>
+      <orgName>AnalyzeController.cs</orgName>
+    </file>
+  </files>
+  <info>
+    <package>
+      <name>Document Analyzer</name>
+      <version>1.0.0</version>
+      <license url="http://opensource.org/licenses/MIT">MIT License</license>
+      <url>http://district01.be/</url>
+      <requirements>
+        <major>3</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>Nicola Nauwynck</name>
+      <website>http://district01.be/</website>
+    </author>
+    <readme><![CDATA[This tool analyzes your pages. It helps you see how many unpublished pages you have.]]></readme>
+  </info>
+  <DocumentTypes />
+  <Templates />
+  <Stylesheets />
+  <Macros />
+  <DictionaryItems />
+  <Languages />
+  <DataTypes />
+  <control>/Controllers/API/AnalyzeController.cs</control>
+</umbPackage>
